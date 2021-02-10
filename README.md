@@ -1,7 +1,5 @@
 # Beam-Java
-
 ## Chee
-
 ## Installation Walkthrough
 <br/>
 1) Download JDK version 8
@@ -26,12 +24,15 @@
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13).png">
 <br/>
 <br/>
-5) add dependency to pom.xml file
+## Basic Word Count
+<br/>
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13)wc.png">
+<br/>
+<br/>
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(14)wc.png">
+<br/>
 <br/>
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(7).png">
 <br/>
 <br/>
-
-## Basic Word Count
-1) 
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(8).png">
