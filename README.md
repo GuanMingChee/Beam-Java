@@ -21,7 +21,9 @@
 <br/>
 4) Unzip the file, add path of bin directory of apache maven to PATH, check the version with "mvn -v"
 <br/>
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(12).png">
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(6).png">
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13).png">
 <br/>
 <br/>
 5) add dependency to pom.xml file
