@@ -3,11 +3,15 @@
 ## Chee
 <br/>
 <br/>
+1) Download JDK version 8
+<br/>
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(4).png">
-Download JDK version 8
+<br/>
+<br/>
+2) Set environment variable
 <br/>
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(3).png">
-Set environment variable
+<br/>
 <br/>
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(5).png">
 Download binary zip archive
