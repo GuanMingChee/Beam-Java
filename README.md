@@ -24,15 +24,20 @@
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13).png">
 <br/>
 <br/>
+
 ## Basic Word Count
 <br/>
+1) run the code below with PowerShell
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13)wc.png">
 <br/>
 <br/>
+2) check the files and pipeline created
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(14)wc.png">
 <br/>
 <br/>
+3) add dependency
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(7).png">
 <br/>
 <br/>
+4) run the word count
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(8).png">
