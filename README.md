@@ -1,5 +1,8 @@
 # Beam-Java
 ## Chee
+### Topics covered:
+- installation
+- simple word count
 ## Installation Walkthrough
 <br/>
 1) Download JDK version 8
@@ -17,7 +20,7 @@
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(5).png">
 <br/>
 <br/>
-4) Unzip the file, add path of bin directory of apache maven to PATH, check the version with "mvn -v"
+4) Unzip the file, add path of bin directory of apache maven to PATH, check the version with `mvn -v`
 <br/>
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(12).png">
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(6).png">
