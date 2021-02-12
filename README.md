@@ -82,6 +82,15 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 <br/>
 <br/>
 
+## Chase Staples
+### Topics Covered: 
+
+I will be working on the follow topics for the Covid Dataset [https://www.kaggle.com/gpreda/covid-world-vaccination-progress]
+
+## Reduced 
+
+The word-count file will be <i>Reduced</i> to whatever parameters are set for that specific output of that dataset(Words, Starting with, ending with, Having "", and so on..)
+
 ## Bihani
 ### Topics covered:
 I will be working on the following tasks on the project:
