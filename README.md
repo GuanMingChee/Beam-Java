@@ -61,26 +61,11 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 ### Topics covered: [Demo Link](https://use.vg/uQBWKw)
 - Minimal Word Count
 ## Minimal Word Count
-For Word count, we will need to create a Maven project with all the release/files specified for pipeline use. Then, add the dependency before running the pipeline.
-<br/>
-1) run the code below with PowerShell
-<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13)wc.png">
-<br/>
-<br/>
-2) check the files and pipeline created
-<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(14)wc.png">
-<br/>
-<br/>
-3) add dependency
-<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(7).png">
-<br/>
-<br/>
-4) run the word count
-<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(8).png">
-<br/>
-After this, you can do "ls counts*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
-<br/>
-The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Python. 
+For Minimal Word count, we have created a Maven project with all the release/files specified for pipeline use. Then, add the dependency before running the pipeline and followed the steps mentioned above.
+
+After this, you can do "ls wordcount*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
+
+The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Java. 
 <br/>
 <br/>
 
