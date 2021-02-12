@@ -34,6 +34,8 @@
 
 ## Basic Word Count
 <br/>
+For Word count, we will need to create a Maven project with all the release/files specified for pipeline use. Then, add the dependency before running the pipeline.
+<br/>
 1) run the code below with PowerShell
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13)wc.png">
 <br/>
