@@ -3,7 +3,7 @@
 <table>
   <tr>
    <td align="center"><a href="https://github.com/blonbihani"><img src="https://avatars.githubusercontent.com/blonbihani" width="100px;" alt=""/><br /><sub><b>Bihani Tamang</b></sub></a><br /><a href="https://github.com/blonbihani" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/GuanMingChee"><img src="https://avatars.githubusercontent.com/GuanMingLee" width="100px;" alt=""/><br /><sub><b>Guan Ming Lee</b></sub></a><br /><a href="https://github.com/GuanMingChee" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/GuanMingChee"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQFGCcqJt0vhMw/profile-displayphoto-shrink_800_800/0/1579219859147?e=1618444800&v=beta&t=7O8YlngIKOk8uvVM3E68Sv_VFgb7Da5xC9lz6PejEGQ" width="100px;" alt=""/><br /><sub><b>Guan Ming Lee</b></sub></a><br /><a href="https://github.com/GuanMingChee" title="Code">💻</a></td>
   <td align="center"><a href="https://github.com/SpyridonKaperonis"><img src="https://avatars.githubusercontent.com/SpyridonKaperonis" width="100px;" alt=""/><br /><sub><b>Spyridon Kaperonis</b></sub></a><br /><a href="https://github.com/SpyridonKaperonis" title="Code">💻</a></td>
    <td align="center"><a href="https://github.com/soumyarao28"><img src="https://avatars.githubusercontent.com/soumyarao28" width="100px;" alt=""/><br /><sub><b>Soumya Chidambar Rao Waddankeri</b></sub></a><br /><a href="https://github.com/soumyarao28" title="Code">💻</a></td>
   </tr>
@@ -93,5 +93,5 @@ I will be working on the following tasks on the project:
 
 ### Dataset:
 I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has variety of data about the employee. So, the program will help us count the number of times the words in the dataset are repeated.
-<img src = "HR dataset.PNG">
+<img src = "">
 <br>
