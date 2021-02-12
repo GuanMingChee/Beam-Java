@@ -1,7 +1,7 @@
 # Beam-Java
 ## Chee
 ### Topics covered: [Demo Link](https://use.vg/uQBWKw)
-- installation
+- Installation
 - simple word count
 ## Introduction 
 - Beam is an open source, unified model that define and execute both batch and streaming data-parallel processing pipelines. 
@@ -57,8 +57,37 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 <br/>
 <br/>
 
+## Soumya Chidambar Rao Waddankeri
+### Topics covered: [Demo Link](https://use.vg/uQBWKw)
+- Minimal Word Count
+## Minimal Word Count
+For Word count, we will need to create a Maven project with all the release/files specified for pipeline use. Then, add the dependency before running the pipeline.
+<br/>
+1) run the code below with PowerShell
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(13)wc.png">
+<br/>
+<br/>
+2) check the files and pipeline created
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(14)wc.png">
+<br/>
+<br/>
+3) add dependency
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(7).png">
+<br/>
+<br/>
+4) run the word count
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(8).png">
+<br/>
+After this, you can do "ls counts*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
+<br/>
+The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Python. 
+<br/>
+<br/>
+
 ## Reference
 - [Beam](https://beam.apache.org/get-started/quickstart-java/)
 - [Apache Maven](https://maven.apache.org/download.cgi)
 - [Maven Installation Guide](https://maven.apache.org/install.html)
 - [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
+
+
