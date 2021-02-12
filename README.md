@@ -90,3 +90,6 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 I will be working on the following tasks on the project:
 
 - Word Count (with a different dataset)
+
+### Dataset:
+I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has variety of data about the employee. So, the program will help us count the number of times the words in the dataset are repeated.
