@@ -14,7 +14,7 @@
   Spyridion Kaperonis
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/soumyarao28"><img src="![Screenshot](screenshot.png)" width="100px;" alt=""/><br /><sub><b>Soumya Chidambar Rao Waddankeri</b></sub></a><br /><a href="https://github.com/soumyarao28" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/soumyarao28"><img src="![Soumya](SoumyaChidambarRaoWaddankeri.jpeg)" width="100px;" alt=""/><br /><sub><b>Soumya Chidambar Rao Waddankeri</b></sub></a><br /><a href="https://github.com/soumyarao28" title="Code">💻</a></td>
   </tr>
 </table>
   
