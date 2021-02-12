@@ -93,5 +93,5 @@ I will be working on the following tasks on the project:
 
 ### Dataset:
 I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has variety of data about the employee. So, the program will help us count the number of times the words in the dataset are repeated.
-<img src = "">
+<img src = "HR dataset.PNG">
 <br>
