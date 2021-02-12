@@ -65,6 +65,9 @@ After this, you can do "ls counts*" to check the result or go to "word-count-bea
 <br/>
 The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Python. 
 <br/>
+<br/>
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(16).png">
+<br/>
 
 ## Reference
 - [Beam](https://beam.apache.org/get-started/quickstart-java/)
