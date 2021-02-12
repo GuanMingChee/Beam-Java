@@ -54,3 +54,11 @@ For Word count, we will need to create a Maven project with all the release/file
 After this, you can do "ls counts*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
 <br/>
 The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Python. 
+<br/>
+<br/>
+
+## Reference
+[Beam](https://beam.apache.org/get-started/quickstart-java/)
+[Apache Maven](https://maven.apache.org/download.cgi)
+[Maven Installation Guide](https://maven.apache.org/install.html)
+[Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
