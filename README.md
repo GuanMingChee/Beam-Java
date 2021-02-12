@@ -65,7 +65,12 @@ After this, you can do "ls counts*" to check the result or go to "word-count-bea
 <br/>
 The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Python. 
 <br/>
-<br/>
+
+## Reference
+- [Beam](https://beam.apache.org/get-started/quickstart-java/)
+- [Apache Maven](https://maven.apache.org/download.cgi)
+- [Maven Installation Guide](https://maven.apache.org/install.html)
+- [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
 
 ## Soumya Chidambar Rao Waddankeri
 ### Topics covered: [Demo Link](https://use.vg/uQBWKw)
@@ -79,12 +84,6 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 <br/>
 <br/>
 
-## Reference
-- [Beam](https://beam.apache.org/get-started/quickstart-java/)
-- [Apache Maven](https://maven.apache.org/download.cgi)
-- [Maven Installation Guide](https://maven.apache.org/install.html)
-- [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
-
 ## Bihani
 ### Topics covered:
 I will be working on the following tasks on the project:
@@ -93,9 +92,5 @@ I will be working on the following tasks on the project:
 
 ### Dataset:
 I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has variety of data about the employee. So, the program will help us count the number of times the words in the dataset are repeated.
-<img src = "HR dataset.PNG">
+!<img src = "HR dataset.PNG">
 <br>
-
-## Reference
-- [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
-- [Apache Beam Java](https://beam.apache.org/get-started/quickstart-java/)
