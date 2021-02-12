@@ -70,15 +70,9 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(16).png">
 <br/>
 
-## Reference
-- [Beam](https://beam.apache.org/get-started/quickstart-java/)
-- [Apache Maven](https://maven.apache.org/download.cgi)
-- [Maven Installation Guide](https://maven.apache.org/install.html)
-- [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
-
 ## Soumya Chidambar Rao Waddankeri
-### Topics covered: [Demo Link](https://use.vg/uQBWKw)
-- Minimal Word Count
+### Topics covered: 
+- I have been working on the <i>Minimal Word Count</i> for the covid vaccination dataset.[https://www.kaggle.com/gpreda/covid-world-vaccination-progress]
 ## Minimal Word Count
 For Minimal Word count, we have created a Maven project with all the release/files specified for pipeline use. Then, add the dependency before running the pipeline and followed the steps mentioned above.
 
@@ -101,4 +95,8 @@ I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has
 
 ### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
-- [Apache Beam Java](https://beam.apache.org/get-started/quickstart-java/)
+- [Beam](https://beam.apache.org/get-started/quickstart-java/)
+- [Apache Maven](https://maven.apache.org/download.cgi)
+- [Maven Installation Guide](https://maven.apache.org/install.html)
+- [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
+
