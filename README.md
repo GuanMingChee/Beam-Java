@@ -1,24 +1,14 @@
 ## Group 01 Team Members :
-
+# Beam-Java
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/blonbihani"><img src="https://avatars.githubusercontent.com/blonbihani" width="100px;" alt=""/><br /><sub><b>Bihani Tamang</b></sub></a><br /><a href="https://github.com/blonbihani" title="Code">💻</a></td>
-  </tr>
-  <tr>
-  Chase Staples
-  </tr>
-  <tr>
+   <td align="center"><a href="https://github.com/blonbihani"><img src="https://avatars.githubusercontent.com/blonbihani" width="100px;" alt=""/><br /><sub><b>Bihani Tamang</b></sub></a><br /><a href="https://github.com/blonbihani" title="Code">💻</a></td>
   <td align="center"><a href="https://github.com/GuanMingChee"><img src="https://avatars.githubusercontent.com/GuanMingLee" width="100px;" alt=""/><br /><sub><b>Guan Ming Lee</b></sub></a><br /><a href="https://github.com/GuanMingChee" title="Code">💻</a></td>
-  </tr>
-  <tr>
   <td align="center"><a href="https://github.com/SpyridonKaperonis"><img src="https://avatars.githubusercontent.com/SpyridonKaperonis" width="100px;" alt=""/><br /><sub><b>Guan Ming Lee</b></sub></a><br /><a href="https://github.com/SpyridonKaperonis" title="Code">💻</a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/soumyarao28"><img src="https://avatars.githubusercontent.com/soumyarao28" width="100px;" alt=""/><br /><sub><b>Soumya Chidambar Rao Waddankeri</b></sub></a><br /><a href="https://github.com/soumyarao28" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/soumyarao28"><img src="https://avatars.githubusercontent.com/soumyarao28" width="100px;" alt=""/><br /><sub><b>Soumya Chidambar Rao Waddankeri</b></sub></a><br /><a href="https://github.com/soumyarao28" title="Code">💻</a></td>
   </tr>
 </table>
   
-# Beam-Java
 ## Chee
 ### Topics covered: [Demo Link](https://use.vg/uQBWKw)
 - Installation
