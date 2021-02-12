@@ -108,7 +108,9 @@ I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has
 2: Run the word count code:
 <img src = "Wordcount code.PNG">
 
-3: Check the output files in the directory that you're working on:
+3: Check the output 
+
+The output will be directed into different files in the same directory that we're working on. Here, we have 3 output files for the Word Count program using the given dataset. 
 <img src = "Outputs.PNG">
 
 ### References
