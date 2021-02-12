@@ -108,6 +108,9 @@ I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has
 2: Run the word count code:
 <img src = "Wordcount code.PNG">
 
+3: Check the output files in the directory that you're working on:
+<img src = "Outputs.PNG">
+
 ### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 - [Beam](https://beam.apache.org/get-started/quickstart-java/)
