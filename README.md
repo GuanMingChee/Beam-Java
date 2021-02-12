@@ -58,7 +58,7 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 <br/>
 
 ## Reference
-[Beam](https://beam.apache.org/get-started/quickstart-java/)
-[Apache Maven](https://maven.apache.org/download.cgi)
-[Maven Installation Guide](https://maven.apache.org/install.html)
-[Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
+- [Beam](https://beam.apache.org/get-started/quickstart-java/)
+- [Apache Maven](https://maven.apache.org/download.cgi)
+- [Maven Installation Guide](https://maven.apache.org/install.html)
+- [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
