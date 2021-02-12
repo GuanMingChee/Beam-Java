@@ -3,6 +3,10 @@
 ### Topics covered:
 - installation
 - simple word count
+## Introduction 
+- Beam is an open source, unified model that define and execute both batch and streaming data-parallel processing pipelines. 
+- Beam decompose problems into many smaller bundles of data that can be processed independently and in parallel.
+- Beam can be used for Extract, Transform, and Load (ETL) tasks and pure data integration.
 ## Installation Walkthrough
 <br/>
 1) Download JDK version 8
@@ -44,3 +48,7 @@
 <br/>
 4) run the word count
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(8).png">
+<br/>
+After this, you can do "ls counts*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
+<br/>
+The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Python. 
