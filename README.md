@@ -98,6 +98,6 @@ I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has
 !<img src = "HR dataset.PNG">
 <br>
 
-### References:)
+### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 - [Apache Beam Java](https://beam.apache.org/get-started/quickstart-java/)
