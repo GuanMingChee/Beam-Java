@@ -85,4 +85,8 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 - [Maven Installation Guide](https://maven.apache.org/install.html)
 - [Direct Runner dependency](https://beam.apache.org/documentation/runners/direct/)
 
+## Bihani
+### Topics covered:
+I will be working on the following tasks on the project:
 
+- Word Count (with a different dataset)
