@@ -93,12 +93,11 @@ I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has
 <img src = "HR dataset.PNG">
 <br>
 
-1:
-Maven installed (Please scroll up to know how to install Maven)
+1: Maven installed (Please scroll up to know how to install Maven)
 <img src = "Maveninstalled.PNG">
 
-2:
-
+2: Run the word count code:
+<img src = "Wordcount code.PNG">
 
 ### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
