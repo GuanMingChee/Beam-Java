@@ -1,3 +1,15 @@
+## Group 01 Team Members :
+
+<table>
+  Bihani Tamang
+  Chase Staples
+  Guan Ming Lee
+  Spyridion Kaperonis
+  <tr>
+    <td align="center"><a href="https://github.com/soumyarao28"><img src="![Screenshot](screenshot.png)" width="100px;" alt=""/><br /><sub><b>Soumya Chidambar Rao Waddankeri</b></sub></a><br /><a href="https://github.com/soumyarao28" title="Code">💻</a></td>
+  </tr>
+</table>
+  
 # Beam-Java
 ## Chee
 ### Topics covered: [Demo Link](https://use.vg/uQBWKw)
