@@ -114,7 +114,10 @@ The output will be directed into different files in the same directory that we'r
 <img src = "Outputs.PNG">
 
 ## Spyridon Kaperonis
-### Topic Covered: I will be working on the following dataset which is about Cryptocurrencies. [https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
+
+### Topic Covered: I will be working on the following dataset which is about Cryptocurrencies. 
+
+[https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
 
 ### Max math operation
 
