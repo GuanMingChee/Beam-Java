@@ -115,9 +115,9 @@ The output will be directed into different files in the same directory that we'r
 
 ## Spyridon Kaperonis
 
-### Topic Covered: I will be working on the following dataset which is about Cryptocurrencies. 
+### Topic Covered: 
 
-[https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
+I will be working on the following dataset which is about Cryptocurrencies. [https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
 
 ### Max math operation
 
