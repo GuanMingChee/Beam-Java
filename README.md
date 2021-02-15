@@ -113,6 +113,11 @@ I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has
 The output will be directed into different files in the same directory that we're working on. Here, we have 3 output files for the Word Count program using the given dataset. 
 <img src = "Outputs.PNG">
 
+## Spyridon Kaperonis
+### Topic Covered: I will be working on the following dataset which is about Cryptocurrencies. [https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
+
+### Max math operation
+
 ### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 - [Beam](https://beam.apache.org/get-started/quickstart-java/)
