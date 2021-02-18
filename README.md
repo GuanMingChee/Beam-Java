@@ -80,7 +80,7 @@ For Minimal Word count, we have created a Maven project with all the release/fil
 After this, you can do "ls wordcount*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
 <img src ="Wordcount.PNG">
 The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Java. 
-<img src="MiinimalWordCount.PNG>
+<img src="MiinimalWordCount.PNG">
 <br/>
 <br/>
 
