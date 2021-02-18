@@ -75,10 +75,12 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 - I have been working on the <i>Minimal Word Count</i> for the covid vaccination dataset.[https://www.kaggle.com/gpreda/covid-world-vaccination-progress]
 ## Minimal Word Count
 For Minimal Word count, we have created a Maven project with all the release/files specified for pipeline use. Then, add the dependency before running the pipeline and followed the steps mentioned above.
-
+<img src = "Dataset.PNG">
+<img src ="word-count-beam folder.PNG">
 After this, you can do "ls wordcount*" to check the result or go to "word-count-beam" directory and click on they newly generated files.
-
+<img src ="Wordcount.PNG">
 The dataset in .csv files will be map the word to word count. Then, the key value pair will be reduced so that all duplicates will be removed and add to the word count. The whole process is using the dictionary concept in Java. 
+<img src="MiinimalWordCount.PNG>
 <br/>
 <br/>
 
