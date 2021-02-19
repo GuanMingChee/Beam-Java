@@ -126,11 +126,15 @@ The output will be directed into different files in the same directory that we'r
 I will be working on the following dataset which is about Cryptocurrencies. [https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
 
 ### Word Count Operation
- I will use word count operation to count words in the dataset above. 
+
+ I will use word count operation to count words in the dataset above.
+
+### Demo link: [WordCount](https://use.vg/K8tKXf)
 
  <img src="Spyridon1.jpg">
 
- <img src="Spyridon2.jpg>
+ <img src="Spyridon2.jpg">
+
  
  
 
