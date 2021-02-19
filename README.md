@@ -87,11 +87,11 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 ## Chase Staples
 ### Topics Covered: 
 
-I will be working on the follow topics for the Covid Dataset [https://www.kaggle.com/gpreda/covid-world-vaccination-progress]
+I will be working on the follow topics for the Video Games Rating Dataset [https://www.kaggle.com/imohtn/video-games-rating-by-esrb]
 
-## Reduced 
+## WordCount
 
-The word-count file will be <i>Reduced</i> to whatever parameters are set for that specific output of that dataset(Words, Starting with, ending with, Having "", and so on..)
+This will help count the times each word in this dataset is being used.
 
 ## Bihani
 
@@ -126,6 +126,7 @@ I will be working on the following dataset which is about Cryptocurrencies. [htt
 
 ### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
+- [Dataset](https://www.kaggle.com/imohtn/video-games-rating-by-esrb)
 - [Beam](https://beam.apache.org/get-started/quickstart-java/)
 - [Apache Maven](https://maven.apache.org/download.cgi)
 - [Maven Installation Guide](https://maven.apache.org/install.html)
