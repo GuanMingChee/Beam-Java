@@ -94,10 +94,11 @@ I will be working on the follow topics for the Covid Dataset [https://www.kaggle
 The word-count file will be <i>Reduced</i> to whatever parameters are set for that specific output of that dataset(Words, Starting with, ending with, Having "", and so on..)
 
 ## Bihani
-### Topics covered:
+
+### Topics covered: [Demo Video](https://use.vg/SqkuF7)
 I will be working on the following tasks on the project:
 
-- Word Count (with a different dataset)
+- Word Count using dataset "[HR Analytics: Job change of Data Scientists](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)"
 
 ### Dataset:
 I will be taking 'HR Analytics: Job change of Data Scientists' dataset which has variety of data about the employee. So, the program will help us count the number of times the words in the dataset are repeated.
