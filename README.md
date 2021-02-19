@@ -92,6 +92,9 @@ I will be working on the follow topics for the Video Games Rating Dataset [https
 ## WordCount
 
 This will help count the times each word in this dataset is being used.
+<img src=""Chase/ChaseDataset.png>
+<img src="Chase/ChaseMaven.png">
+<img src="Chase/ChaseCounts">
 
 ## Bihani
 
