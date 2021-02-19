@@ -125,7 +125,10 @@ The output will be directed into different files in the same directory that we'r
 
 I will be working on the following dataset which is about Cryptocurrencies. [https://www.kaggle.com/philmohun/cryptocurrency-financial-data](https://www.kaggle.com/philmohun/cryptocurrency-financial-data)
 
-### Max math operation
+### Word Count Operation
+ I will use word count operation to count words in the dataset above. 
+ 
+ 
 
 ### References
 - [Dataset](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
