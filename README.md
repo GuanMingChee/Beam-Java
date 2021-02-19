@@ -131,9 +131,9 @@ I will be working on the following dataset which is about Cryptocurrencies. [htt
 
 ### Demo link: [WordCount](https://use.vg/K8tKXf)
 
- <img src="Spyridon1.jpg">
+ <img src="Spyridon1.png">
 
- <img src="Spyridon2.jpg">
+ <img src="Spyridon2.png">
 
  
  
