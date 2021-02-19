@@ -127,6 +127,10 @@ I will be working on the following dataset which is about Cryptocurrencies. [htt
 
 ### Word Count Operation
  I will use word count operation to count words in the dataset above. 
+
+ <img src="Spyridon1.jpg">
+
+ <img src="Spyridon2.jpg>
  
  
 
