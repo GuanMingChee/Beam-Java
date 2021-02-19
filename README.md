@@ -70,7 +70,7 @@ The dataset in .csv files will be map the word to word count. Then, the key valu
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Screenshot%20(16).png">
 <br/>
 
-## Soumya Chidambar Rao Waddankeri
+## Soumya Chidambar Rao Waddankeri [Video Link](https://use.vg/WCN72o)
 ### Topics covered: 
 - I have been working on the <i>Minimal Word Count</i> for the covid vaccination dataset.[https://www.kaggle.com/gpreda/covid-world-vaccination-progress]
 ## Minimal Word Count
