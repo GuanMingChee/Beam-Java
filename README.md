@@ -92,7 +92,7 @@ I will be working on the follow topics for the Video Games Rating Dataset [https
 ## WordCount
 
 This will help count the times each word in this dataset is being used.
-<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Chase/ChaseDataset.PNG>
+<img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Chase/ChaseDataset.PNG">
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Chase/ChaseMaven.PNG">
 <img src="https://github.com/GuanMingChee/Beam-Java/blob/main/Chase/ChaseCounts.PNG">
 
