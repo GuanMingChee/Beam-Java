@@ -116,7 +116,7 @@ The map transform is a higher-level composite transform that encapsulates a simp
 <br/>
 
 ## Chase Staples
-### Topics Covered: 
+### Topics Covered: [Demo Link](https://use.vg/scr5yQ)
 
 I will be working on the follow topics for the Video Games Rating Dataset [https://www.kaggle.com/imohtn/video-games-rating-by-esrb]
 
